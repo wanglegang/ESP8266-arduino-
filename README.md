@@ -11,3 +11,5 @@
 5. 点击安装，等待安装完成。重启arduino IDE后，设置 工具-> 开发板xxx -> Generic ESP8266 Module
   
 
+产考文献： arduino core for ESP8266接入OneNET+SPIFFS+HTTPserver
+         https://www.arduino.cn/forum.php?mod=viewthread&tid=19143
